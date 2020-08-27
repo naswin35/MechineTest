@@ -1,0 +1,1 @@
+package com.example.codingtest.utilsenum class ResourceState {    LOADING, SUCCESS, ERROR}

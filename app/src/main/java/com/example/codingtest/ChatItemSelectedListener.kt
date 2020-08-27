@@ -1,0 +1,1 @@
+package com.example.codingtestinterface ChatItemSelectedListener {    fun selected(messageId: String, boolean: Boolean)}
